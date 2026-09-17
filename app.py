@@ -122,6 +122,7 @@ else:
             monthly_sales,
             x='month',
             y='sales',
+            color='blue'
         )
 
     with right:
